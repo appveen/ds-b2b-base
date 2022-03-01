@@ -12,7 +12,7 @@
   },
   "name": "ds-b2b-base",
   "description": "Integration base image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "app.js",
   "scripts": {
     "test": "test.js",
